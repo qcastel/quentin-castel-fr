@@ -2221,3 +2221,24 @@ ul.social-links li:last-child a {
   background-color: #fff;
 }
 /* /Header Main Color BG */
+
+
+/* Experiences Techno */
+.techno ul {
+  padding-left: 0;
+}
+
+.techno ul li {
+  display: inline-block;
+  border-radius: 15px;
+  background-color: #008acf;
+  padding: 2px 15px;
+  color: #fff;
+}
+
+.techno ul li:before {
+  content: "+ ";
+}
+
+
+
